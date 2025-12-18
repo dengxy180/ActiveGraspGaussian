@@ -1,0 +1,2 @@
+set(active_grasp_MESSAGE_FILES "/home/dxy/catkin_active_grasp_ws/src/active_grasp/msg/AABBox.msg")
+set(active_grasp_SERVICE_FILES "/home/dxy/catkin_active_grasp_ws/src/active_grasp/srv/Reset.srv;/home/dxy/catkin_active_grasp_ws/src/active_grasp/srv/Seed.srv")

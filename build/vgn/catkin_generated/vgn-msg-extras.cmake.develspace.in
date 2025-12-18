@@ -1,0 +1,2 @@
+set(vgn_MESSAGE_FILES "/home/dxy/catkin_active_grasp_ws/src/vgn/msg/GraspConfig.msg")
+set(vgn_SERVICE_FILES "/home/dxy/catkin_active_grasp_ws/src/vgn/srv/GetMapCloud.srv;/home/dxy/catkin_active_grasp_ws/src/vgn/srv/GetSceneCloud.srv;/home/dxy/catkin_active_grasp_ws/src/vgn/srv/PredictGrasps.srv")

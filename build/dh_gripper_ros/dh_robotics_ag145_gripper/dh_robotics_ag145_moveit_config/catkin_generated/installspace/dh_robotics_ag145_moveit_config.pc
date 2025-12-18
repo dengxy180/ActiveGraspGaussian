@@ -1,0 +1,8 @@
+prefix=/home/dxy/catkin_active_grasp_ws/install
+
+Name: dh_robotics_ag145_moveit_config
+Description: Description of dh_robotics_ag145_moveit_config
+Version: 0.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

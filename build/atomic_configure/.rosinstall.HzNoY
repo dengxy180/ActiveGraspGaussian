@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dxy/catkin_active_grasp_ws/devel/setup.sh
