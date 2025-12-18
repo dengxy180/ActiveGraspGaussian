@@ -1,0 +1,18 @@
+[submodule "src/vgn"]
+	path = src/vgn
+	url = git@github.com:ethz-asl/vgn.git
+[submodule "src/dh_gripper_ros"]
+	path = src/dh_gripper_ros
+	url = git@github.com:DH-Robotics/dh_gripper_ros.git
+[submodule "src/TCP-IP-ROS-6AXis"]
+	path = src/TCP-IP-ROS-6AXis
+	url = git@github.com:Dobot-Arm/TCP-IP-ROS-6AXis.git
+[submodule "src/panda_moveit_config"]
+	path = src/panda_moveit_config
+	url = git@github.com:moveit/panda_moveit_config.git
+[submodule "src/active_grasp"]
+	path = src/active_grasp
+	url = git@github.com:ethz-asl/active_grasp.git
+[submodule "src/robot_helpers"]
+	path = src/robot_helpers
+	url = git@github.com:mbreyer/robot_helpers.git
